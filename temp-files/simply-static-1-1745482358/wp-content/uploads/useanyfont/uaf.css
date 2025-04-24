@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'kyivtype';
+					src: url('/wp-content/uploads/useanyfont/5322Kyivtype.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/5322Kyivtype.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.kyivtype{font-family: 'kyivtype' !important;}
+
+		
